@@ -1,5 +1,4 @@
 <%@tag description="Tag Edit" pageEncoding="UTF-8"%>
-<%@ taglib uri="http://ckeditor.com" prefix="ckeditor" %>
 <html>
 <body>
 	<script src="ckeditor/ckeditor.js"></script>
